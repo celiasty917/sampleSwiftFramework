@@ -1,0 +1,10 @@
+framework module MyFramework {
+  umbrella header "MyFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module MyFramework.__Swift {
+    exclude header "MyFramework-Swift.h"
+}

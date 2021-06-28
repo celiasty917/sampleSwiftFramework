@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/tianyi.song/Documents/Xcode_projects/ios-universal-framework-starter/MyFramework/derived_data/Build/Products/Release-iphonesimulator/MyFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/tianyi.song/Documents/Xcode_projects/ios-universal-framework-starter/MyFramework/derived_data/Build/Intermediates.noindex/MyFramework.build/Release-iphonesimulator/MyFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

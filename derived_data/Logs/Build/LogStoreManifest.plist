@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>18953F72-403C-4DC4-905A-9F92F1D3CB59</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18953F72-403C-4DC4-905A-9F92F1D3CB59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MyFramework with scheme MyFramework and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>646540280.864169</real>
+			<key>timeStoppedRecording</key>
+			<real>646540292.01624703</real>
+			<key>title</key>
+			<string>Building project MyFramework with scheme MyFramework and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>18953F72-403C-4DC4-905A-9F92F1D3CB59</string>
+		</dict>
+		<key>7028EB65-6014-4CB0-853C-08A52E919917</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7028EB65-6014-4CB0-853C-08A52E919917.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyFramework project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyFramework</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project MyFramework with scheme MyFramework and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>646540332.23392904</real>
+			<key>timeStoppedRecording</key>
+			<real>646540332.31008601</real>
+			<key>title</key>
+			<string>Cleaning project MyFramework with scheme MyFramework and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>7028EB65-6014-4CB0-853C-08A52E919917</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

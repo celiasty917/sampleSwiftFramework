@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "e1e02111898c4f02792b15668f40bcb5"
+build_time: [1624847534, 100244000]
+inputs:
+  "/Users/tianyi.song/Documents/Xcode_projects/ios-universal-framework-starter/MyFramework/MyFramework/LoginViewController.swift": [9223372036, 854775807]
